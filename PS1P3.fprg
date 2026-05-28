@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="PS1P3"/>
+        <attribute name="authors" value="alvin"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-05-22 06:19:52 PM"/>
+        <attribute name="created" value="YWx2aW47TEFQVE9QLTE5VlRWN09DOzIwMjYtMDUtMjI7MDY6MDE6MTcgUE07Mjg4OA=="/>
+        <attribute name="edited" value="YWx2aW47TEFQVE9QLTE5VlRWN09DOzIwMjYtMDUtMjI7MDY6MTk6NTIgUE07MTszMDA0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Length" type="Real" array="False" size=""/>
+            <declare name="Width" type="Real" array="False" size=""/>
+            <declare name="Area" type="Real" array="False" size=""/>
+            <declare name="Circumference" type="Real" array="False" size=""/>
+            <input variable="Length"/>
+            <input variable="Width"/>
+            <assign variable="Area" expression="Length * Width"/>
+            <assign variable="Circumference" expression="2 * Length + 2 * Width"/>
+            <output expression="&quot;The area is &quot; &amp; Area &amp; &quot; and the circumference is &quot; &amp; Circumference" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
