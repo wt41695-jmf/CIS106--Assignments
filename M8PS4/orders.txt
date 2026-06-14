@@ -1,0 +1,15 @@
+TV
+3
+430
+Speaker
+2
+120
+Computer
+4
+670
+Clock
+4
+55
+Microwave
+2
+65
