@@ -1,0 +1,10 @@
+Parrish 0.384
+Blackwell 0.954
+Todd 0.247
+Brown 0.438
+Jones 0.325
+Garcia 0.235
+Sawyer 0.459
+Miller 0.345
+Rodriguez 0.854
+Martinez 0.452
